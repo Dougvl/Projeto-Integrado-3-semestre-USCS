@@ -1,0 +1,198 @@
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.exe
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.deps.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.runtimeconfig.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.AssemblyReference.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.Form1.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.GenerateResource.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfoInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfo.cs
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CoreCompileInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\refint\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.genruntimeconfig.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\ref\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaCli.resources
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaCli.resources
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.Form1.resources
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.GenerateResource.cache
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfo.cs
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.dll
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\ref\projetoPI.dll
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.pdb
+C:\Users\ander\Desktop\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.exe
+C:\Users\ander\Desktop\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.deps.json
+C:\Users\ander\Desktop\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.runtimeconfig.json
+C:\Users\ander\Desktop\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.dll
+C:\Users\ander\Desktop\projetoPI\projetoPI\bin\Debug\net6.0-windows\ref\projetoPI.dll
+C:\Users\ander\Desktop\projetoPI\projetoPI\bin\Debug\net6.0-windows\projetoPI.pdb
+C:\Users\ander\Desktop\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.genruntimeconfig.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\bin\Debug\net6.0-windows\ZstdNet.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetoPI\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CopyComplete
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\projetoPI.exe
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\projetoPI.deps.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\projetoPI.runtimeconfig.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\bin\Debug\net6.0-windows\ZstdNet.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.AssemblyReference.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.Form1.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.GenerateResource.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfoInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfo.cs
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CoreCompileInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CopyComplete
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\refint\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.genruntimeconfig.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\ref\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.0\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\projetoPI.exe
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\projetoPI.deps.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\projetoPI.runtimeconfig.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\bin\Debug\net6.0-windows\ZstdNet.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.AssemblyReference.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.Form1.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.NovoPed.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.GenerateResource.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfoInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfo.cs
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CoreCompileInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CopyComplete
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\refint\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.genruntimeconfig.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\ref\projetoPI.dll
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarCli.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarProd.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroCli.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroProd.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaCli.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaProd.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.Form1.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.NovoPed.resources
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.GenerateResource.cache
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfo.cs
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.dll
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\ref\projetoPI.dll
+C:\Users\ander\Desktop\projetopi0.2\projetoPI\obj\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.AssemblyReference.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.Form1.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.NovoPed.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.GenerateResource.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfoInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfo.cs
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CoreCompileInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\refint\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\projetoPI.exe
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\projetoPI.deps.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\projetoPI.runtimeconfig.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\bin\Debug\net6.0-windows\ZstdNet.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CopyComplete
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.genruntimeconfig.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\ref\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.RelPed.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi0.3\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaPed.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\projetoPI.exe
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\projetoPI.deps.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\projetoPI.runtimeconfig.json
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\bin\Debug\net6.0-windows\ZstdNet.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.AssemblyReference.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.AlterarProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.CadastroProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaCli.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaPed.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.ConsultaProd.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.Form1.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.NovoPed.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.RelPed.resources
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.GenerateResource.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfoInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.AssemblyInfo.cs
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CoreCompileInputs.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.csproj.CopyComplete
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\refint\projetoPI.dll
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.pdb
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\projetoPI.genruntimeconfig.cache
+G:\Drives compartilhados\3ºSemestre - USCS\PI 2022 - 1º SEM\PI\projetopi1.01\projetoPI\obj\Debug\net6.0-windows\ref\projetoPI.dll
